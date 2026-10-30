@@ -1,6 +1,7 @@
 {
   "$schema": "https://jamdesk.com/docs.json",
-  "name": "Documentation",
+  "name": "memo",
+  "projectId": "ynHHIAp1YPwxZLFfosNL",
   "theme": "jam",
   "colors": {
     "primary": "#635BFF",
